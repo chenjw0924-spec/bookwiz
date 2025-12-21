@@ -1,0 +1,8 @@
+{
+  "name": "BookWiz - Senior Book Sharing Expert",
+  "description": "A professional AI-powered tool for generating high-quality book sharing scripts and video content summaries.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
